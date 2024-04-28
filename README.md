@@ -1,1 +1,2 @@
 # multiple-choice-test
+The application operates on Android devices and is developed in Java. The users, who are students, log in with their credentials and answer 5 random questions out of the 10 available in a database. Once the users answer all the questions or the time runs out, they see their score, and in the last activity, they view their details along with the start and end times of the test.
